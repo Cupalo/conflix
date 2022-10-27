@@ -12,7 +12,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - State Management Getx
 
-##Step
+## Step
 - clone this repository
 - flutter pub get
 - flutter run
